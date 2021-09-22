@@ -9,6 +9,4 @@ public class Main {
         Lwjgl3ApplicationConfiguration configuration = new Lwjgl3ApplicationConfiguration();
         new Lwjgl3Application(new Portal2d(), configuration);
     }
-
-
 }
